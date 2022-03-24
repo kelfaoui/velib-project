@@ -1,1 +1,3 @@
 # velib-project
+
+#### This project, which I developed in JavaScript, allows anyone to see the main information on Velibs in Parmentier street in Paris. It first shows you a charging bar representing the percentage of Velibs available on the street in relation to the total number of charging stations. It then tells you the exact number of Velibs available (in green if the percentage is greater than a third of the total charging stations, in red if not). You can also see the percentage of eVelibs (electric) and mechanical velibs.
